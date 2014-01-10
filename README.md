@@ -1,7 +1,6 @@
 mrReiha.github.io
 =================
-<h1>Projects</h1>
-<br/>
+<h2>Projects</h2>
 <ul>
-	<li><a href="mrreiha.github.io/gradext/">Gradext</a></li>
+	<li><a href="http://mrreiha.github.io/gradext/">Gradext</a></li>
 </ul>
